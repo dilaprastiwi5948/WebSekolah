@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\SekolahController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/home', [SekolahController::class, 'index']);
+Route::get('/about', [SekolahController::class, 'about']);
+Route::get('/contact', [SekolahController::class, 'contact']);
+Route::get('/profile', [SekolahController::class, 'profile']);
+
