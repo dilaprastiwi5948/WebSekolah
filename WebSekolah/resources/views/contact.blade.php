@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Multi Profile, Contact Page</title>
+        <title>SMA NEGERI 1 GARUM</title>
         <meta name="description" content="">
         <meta name="author" content="templatemo">
         <!-- 
@@ -31,7 +31,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-4 site-name-container">
                         <img src="img/logo.png" alt="Site logo" class="site-logo">
-                        <h1 class="site-name">Multi Pro</h1>
+                        <h1 class="site-name">SMA NEGERI 1 GARUM</h1>
                     </div>
                     <div class="mobile-menu-icon">
                         <i class="fa fa-bars"></i>
@@ -39,9 +39,10 @@
                     <div class="col-lg-9 col-md-8 col-sm-8 templatemo-nav-container">
                         <nav class="templatemo-nav">
                             <ul>
-                                <li><a href="/home">Home</a></li>
-                                <li><a href="/about">About</a></li>
+                                <li><a href="/home">Home</a></li>                               
                                 <li><a href="/profile">profile</a></li>
+                                <li><a href="/extra">Ekstrakurikuler</a></li>
+                                <li><a href="/galeri">galeri</a></li>
                                 <li><a href="/contact" class="active">contact</a></li>
                             </ul>
                         </nav>
@@ -62,7 +63,7 @@
                         <div class="welcome-wrapper">
                             <h2 class="welcome-title text-uppercase">In Touch</h2>
                             <img src="img/welcome-divider-lines.png" alt="Welcome divider" class="welcome-divider-lines-img">
-                            <p class="welcome-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc posuere lectus augue, non rhoncus erat accumsan eu. Sed dictum sem.</p>
+                            <p class="welcome-description">Pendidikan merupakan tiket untuk masa depan. Hari esok untuk orang-orang yang telah mempersiapkan dirinya hari ini.</p>
                         </div>
                     </div>
                 </div>
@@ -149,10 +150,11 @@
                     <h3 class="text-uppercase">Main menu</h3>
                     <nav class="text-uppercase templatemo-nav-2">
                         <ul>
-                            <li><a href="/home">home</a></li>
-                            <li><a href="/about">About</a></li>
-                            <li><a href="/profile">Profile</a></li>
-                            <li><a href="/contact">Contact</a></li>
+                            <li><a href="/home">Home</a></li>                               
+                            <li><a href="/profile">profile</a></li>
+                            <li><a href="/extra">Ekstrakurikuler</a></li>
+                            <li><a href="/galeri">galeri</a></li>
+                            <li><a href="/contact">contact</a></li>
                         </ul>
                     </nav>
                 </div>

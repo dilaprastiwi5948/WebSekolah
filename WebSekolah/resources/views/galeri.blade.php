@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Multi Profile, free responsive template</title>
+        <title>SMA NEGERI 1 GARUM</title>
         <meta name="description" content="">
         <meta name="author" content="templatemo">
         <!-- 
@@ -39,9 +39,10 @@
                     <div class="col-lg-9 col-md-8 col-sm-8 templatemo-nav-container">
                         <nav class="templatemo-nav">
                             <ul>
-                                <li><a href="/home">Home</a></li>
-                                <li><a href="/about">About</a></li>
-                                <li><a href="/profile" class="active">profile</a></li>
+                                <li><a href="/home">Home</a></li>                               
+                                <li><a href="/profile">profile</a></li>
+                                <li><a href="/extra">Ekstrakurikuler</a></li>
+                                <li><a href="/galeri" class="active">galeri</a></li>
                                 <li><a href="/contact">contact</a></li>
                             </ul>
                         </nav>
@@ -59,9 +60,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="welcome-wrapper">
-                            <h2 class="welcome-title text-uppercase">Work</h2>
+                            <h2 class="welcome-title text-uppercase">Galeri</h2>
                             <img src="img/welcome-divider-lines.png" alt="Welcome divider" class="welcome-divider-lines-img">
-                            <p class="welcome-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc posuere lectus augue, non rhoncus erat accumsan eu. Sed dictum sem.</p>
+                            <p class="welcome-description">Pendidikan merupakan tiket untuk masa depan. Hari esok untuk orang-orang yang telah mempersiapkan dirinya hari ini.</p>
                         </div>
                     </div>
                 </div>
@@ -73,59 +74,64 @@
             <div class="container">
                 <div class="row margin-bottom-30">
                     <div class="col-lg-12 text-uppercase text-center">
-                        <h2 class="section-title">Profile</h2>
+                        <h2 class="section-title">galeri</h2>
                         <div class="section-title-underline-blue"></div>
                         <hr class="section-title-underline">
-                        <p class="small">Proin Gravidani</p>
+                        <p class="small">SMA NEGERI 1 GARUM</p>
                     </div>
                 </div>
                 <div class="row margin-bottom-30">
                     <div class="col-lg-12">
                         <ul id="filters" class="folio-filters">
                             <li class="current"><a href="#" data-filter="*">All</a></li>
-                            <li class=""><a href="#" data-filter=".design">Design</a></li>
-                            <li class=""><a href="#" data-filter=".web">Web</a></li>
-                            <li class=""><a href="#" data-filter=".branding">Branding</a></li>
-                            <li class=""><a href="#" data-filter=".print">Print</a></li>
+                            <li class=""><a href="#" data-filter=".lingkungan">Lingkungan</a></li>
+                            <li class=""><a href="#" data-filter=".kegiatan">Kegiatan</a></li>
+                            <li class=""><a href="#" data-filter=".ekstrakurikuler">Ekstrakurikuler</a></li>
                         </ul>
                     </div>
                 </div>
                 <div id="folio-container" class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item design">
-                        <img src="img/18.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item lingkungan">
+                        <img src="img/sman1.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item design">
-                        <img src="img/19.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item lingkungan">
+                        <img src="img/sman2.jpeg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item design">
-                        <img src="img/20.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item lingkungan">
+                        <img src="img/sman3.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item design">
-                        <img src="img/21.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item lingkungan">
+                        <img src="img/profile.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item web">
-                        <img src="img/22.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item kegiatan">
+                        <img src="img/kegiatan1.jpeg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item web">
-                        <img src="img/23.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item kegiatan">
+                        <img src="img/kegiatan2.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item web">
-                        <img src="img/24.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item kegiatan">
+                        <img src="img/kegiatan3.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item branding">
-                        <img src="img/25.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item kegiatan">
+                        <img src="img/kegiatan4.jpeg" alt="Image" class="img-galeri img-thumbnail">
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item ekstrakurikuler">
+                        <img src="img/extra1.jpg" alt="Image" class="img-galeri img-thumbnail">
                         </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item branding">
-                        <img src="img/26.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item ekstrakurikuler">
+                        <img src="img/extra2.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item branding">
-                        <img src="img/27.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item ekstrakurikuler">
+                        <img src="img/extra3.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item print">
-                        <img src="img/28.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item ekstrakurikuler">
+                        <img src="img/extra4.jpeg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item print">
-                        <img src="img/29.jpg" alt="Image" class="img-thumbnail">
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item ekstrakurikuler">
+                        <img src="img/extra5.jpg" alt="Image" class="img-galeri img-thumbnail">
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 margin-bottom-30 folio-item ekstrakurikuler">
+                        <img src="img/extra6.jpg" alt="Image" class="img-galeri img-thumbnail">
                     </div>
                 </div>
             </div>
@@ -141,10 +147,11 @@
                     <h3 class="text-uppercase">Main menu</h3>
                     <nav class="text-uppercase templatemo-nav-2">
                         <ul>
-                            <li><a href="/home">home</a></li>
-                            <li><a href="/about">About</a></li>
-                            <li><a href="/profile">Profile</a></li>
-                            <li><a href="/contact">Contact</a></li>
+                            <li><a href="/home">Home</a></li>                               
+                            <li><a href="/profile">profile</a></li>
+                            <li><a href="/extra">Ekstrakurikuler</a></li>
+                            <li><a href="/galeri">galeri</a></li>
+                            <li><a href="/contact">contact</a></li>
                         </ul>
                     </nav>
                 </div>

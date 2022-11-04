@@ -19,7 +19,8 @@ Route::get('/', function () {
 });
 
 Route::get('/home', [SekolahController::class, 'index']);
-Route::get('/about', [SekolahController::class, 'about']);
+Route::get('/extra', [SekolahController::class, 'extra']);
 Route::get('/contact', [SekolahController::class, 'contact']);
 Route::get('/profile', [SekolahController::class, 'profile']);
+Route::get('/galeri', [SekolahController::class, 'galeri']);
 

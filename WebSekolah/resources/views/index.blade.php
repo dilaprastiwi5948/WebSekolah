@@ -39,9 +39,10 @@
                     <div class="col-lg-9 col-md-8 col-sm-8 templatemo-nav-container">
                         <nav class="templatemo-nav">
                             <ul>
-                                <li><a href="/home" class="active">Home</a></li>
-                                <li><a href="/about">About</a></li>
+                                <li><a href="/home" class="active">Home</a></li>                               
                                 <li><a href="/profile">profile</a></li>
+                                <li><a href="/extra">Ekstrakurikuler</a></li>
+                                <li><a href="/galeri">galeri</a></li>
                                 <li><a href="/contact">contact</a></li>
                             </ul>
                         </nav>
@@ -99,13 +100,13 @@
                             <div class="crsl-items" data-navigation="navbtns">
                                 <div class="crsl-wrap">
                                     <figure class="crsl-item">
-                                        <img src="img/sman1.jpg" alt="Image" class="img-responsive img-thumbnail">
+                                        <img src="img/sman1.jpg" alt="Image" class="img-home img-responsive img-thumbnail">
                                     </figure>
                                     <figure class="crsl-item">
-                                        <img src="img/sman2.jpeg" alt="Image" class="img-responsive img-thumbnail">
+                                        <img src="img/sman2.jpeg" alt="Image" class="img-home img-thumbnail">
                                     </figure>
                                     <figure class="crsl-item">
-                                        <img src="img/sman3.jpg" alt="Image" class="img-responsive img-thumbnail">
+                                        <img src="img/sman3.jpg" alt="Image" class="img-home img-thumbnail">
                                     </figure>
                                 </div>
                             </div>
@@ -201,10 +202,11 @@
                     <h3 class="text-uppercase">Main menu</h3>
                     <nav class="text-uppercase templatemo-nav-2">
                         <ul>
-                            <li><a href="/home">home</a></li>
-                            <li><a href="/about">About</a></li>
-                            <li><a href="/profile">Profile</a></li>
-                            <li><a href="/contact">Contact</a></li>
+                            <li><a href="/home">Home</a></li>                               
+                            <li><a href="/profile">profile</a></li>
+                            <li><a href="/extra">Ekstrakurikuler</a></li>
+                            <li><a href="/galeri">galeri</a></li>
+                            <li><a href="/contact">contact</a></li>
                         </ul>
                     </nav>
                 </div>

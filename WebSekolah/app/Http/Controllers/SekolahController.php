@@ -9,13 +9,16 @@ class SekolahController extends Controller
     public function index() {
         return view('index');
     }
-    public function about() {
-        return view('about');
+    public function extra() {
+        return view('extra');
     }
     public function profile() {
         return view('profile');
     }
     public function contact() {
         return view('contact');
+    }
+    public function galeri() {
+        return view('galeri');
     }
 }
